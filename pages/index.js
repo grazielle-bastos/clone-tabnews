@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Saudades! Te amo muito 💖 </h1>;
+  return <h1>💖</h1>;
 
   function teste() {
     console.log("teste");
